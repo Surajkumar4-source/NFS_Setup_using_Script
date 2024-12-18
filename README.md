@@ -326,14 +326,14 @@ sudo journalctl -xe | grep nfs
 
 
 ## ------------------Screnshots--------------------
-1.
+1. server script
 <br>
 <br>
 
 
 ![Alt text for image](screenshots/1.png)
 
-2.
+2. Client Script
 <br>
 <br>
 
@@ -344,14 +344,14 @@ sudo journalctl -xe | grep nfs
 <br>
 <br>
 
-3.
+3. Verify Ip and mnt
 <br>
 <br>
 
 
 ![Alt text for image](screenshots/3.png)
 
-4.
+4. Final Output
 <br>
 <br>
 
