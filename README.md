@@ -312,3 +312,59 @@ sudo journalctl -xe | grep nfs
 
 
 
+
+<br>
+
+<br>
+
+
+
+
+
+
+
+
+
+## ------------------Screnshots--------------------
+1.
+<br>
+<br>
+
+
+![Alt text for image](screenshots/1.png)
+
+2.
+<br>
+<br>
+
+
+![Alt text for image](screenshots/2.png)
+
+
+<br>
+<br>
+
+3.
+<br>
+<br>
+
+
+![Alt text for image](screenshots/3.png)
+
+4.
+<br>
+<br>
+
+
+
+
+
+![Alt text for image](screenshots/4.png)
+
+
+
+
+
+<br>
+<br>
+
