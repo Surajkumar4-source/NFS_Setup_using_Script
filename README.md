@@ -275,7 +275,7 @@ df -h /mnt/nfs_mount
 ```
 2. Test File Creation:
 ```yml
-touch /mnt/nfs_mount/testfile
+touch /mnt/nfs_mount/suraj.txt
 ls -l /mnt/nfs_mount
 ```
 3. Check Active Mounts:
